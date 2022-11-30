@@ -6,7 +6,7 @@ Username : user@gmail.com
 
 Password : user123
 
-#API
+# API
 https://sandbox.impala.travel
 
 
